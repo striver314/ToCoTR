@@ -5,10 +5,10 @@ setup(
     version='0.0.1',
     packages=find_packages("src"),
     package_dir={'': 'src'},
-    url='https://github.com/striver314/ToCoTR',
+    url='https://github.com/*',
     license='Apache 2.0',
-    author='Luyu Gao, Shengyao Zhuang, Guicai Xie',
-    author_email='luyug@cs.cmu.edu, s.zhuang@uq.edu.au, 13540655411@163.com',
+    author='** *, ** *, ** *',
+    author_email='*, *, *',
     description='Customized Tevatron that designed for Robust DR.',
     python_requires='>=3.7',
     install_requires=[
