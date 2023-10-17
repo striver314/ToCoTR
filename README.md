@@ -1,5 +1,5 @@
 # ToCoTR
-This repository contains the source code for our paper **Robust Dense Retrieval for Text-to-Text Transformers through Typos Correction Training**.
+This repository contains the source code for our paper **Typos Correction Training Against Misspellings from Text-to-Text Transformers**.
 
 ## Installation
 Our code is developed based on [CharacterBERT-DR](https://github.com/ielab/CharacterBERT-DR/).
