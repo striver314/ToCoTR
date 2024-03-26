@@ -53,7 +53,7 @@ python3 -m tevatron.driver.train \
         --self_teaching True
 ```
 
-Our trained model checkpoints for you to download: (ToCoTR)(https://drive.google.com/file/d/1cIr0JvkoqPLsme_zWIDMlr7Ufw1Smo6w/view?usp=sharing)
+Our trained model checkpoints for you to download: [ToCoTR](https://drive.google.com/file/d/1cIr0JvkoqPLsme_zWIDMlr7Ufw1Smo6w/view?usp=sharing)
 
 In this training phase, you can optimize dense retrievers with different objectives by setting different combinations of parameters such as `--contrastive_training`, `--typo_augmentation`, `--self_teaching`, `--rodr_training`.
 
