@@ -1,5 +1,5 @@
 # ToCoTR
-This repository contains the source code for our paper **Typos Correction Training Against Misspellings from Text-to-Text Transformers**.
+This repository contains the source code for our paper **Typos Correction Training Against Misspellings from Text-to-Text Transformers**(https://aclanthology.org/2024.lrec-main.1470/).
 
 ![ToCoTR model architecture](assets/ToCoTR.png)
 
@@ -110,4 +110,23 @@ python3 -m tevatron.faiss_retriever \
 python3 -m tevatron.utils.format.convert_result_to_trec \
               --input dr_tocotr_marco_rank.txt \
               --output dr_tocotr_marco_rank.txt.trec
+```
+
+## Citation
+If you find our paper useful, please cite:
+```
+@inproceedings{xie-etal-2024-typos-correction,
+    title = "Typos Correction Training against Misspellings from Text-to-Text Transformers",
+    author = "Xie, Guicai  and
+              Zhang, Ke  and
+              Duan, Lei  and
+              Zhang, Wei  and
+              Huang, Zeqian",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1470",
+    pages = "16907--16918",
+}
 ```
