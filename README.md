@@ -1,5 +1,5 @@
 # ToCoTR
-This repository contains the source code for our paper **[Typos Correction Training against Misspellings from Text-to-Text Transformers]**(https://aclanthology.org/2024.lrec-main.1470).
+This repository contains the source code for our paper [Typos Correction Training against Misspellings from Text-to-Text Transformers](https://aclanthology.org/2024.lrec-main.1470).
 
 ![ToCoTR model architecture](assets/ToCoTR.png)
 
